@@ -20,7 +20,7 @@ Better Internet
 ####If you want to install on docker,please read [Install with docker](https://github.com/zyqf/DNS/wiki/Install-with-docker)
 
 ### RUN
-* `cd /root && git clone https://github.com/zyqf/DNS.git  && cd DNS && python install.py`
+* `cd /root && git clone https://github.com/tudi1909/DNS.git && cd DNS && python install.py`
 
 #UPDATE rpz.zone flie
 
